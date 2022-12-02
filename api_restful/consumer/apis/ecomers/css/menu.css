@@ -1,0 +1,14 @@
+/*BACKGROUND*/
+body{
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat, repeat;
+    background-size: 1920px, 1500px;
+    background-color: black;
+}
+
+.container{
+    height: 300px;
+    width: 500px;
+    position: relative;
+    color: aqua;
+}
