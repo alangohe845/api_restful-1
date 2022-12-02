@@ -218,7 +218,7 @@ body{
 
       <div class = "about-right">
         <h1>hi<span>!</span></h1>
-        <h2>Somo una fundacion de adopcion animal</h2>
+        <h2>Somos una fundacion de adopcion animal</h2>
 
         <div class = "about-para">
           <p>Nos encargamos de buscar un hogar y una familia para nuestros pequeños amiguitos. Todo sin fines de lucho, compartiendo la felicidad y el amor de tener una mascota.</p>
